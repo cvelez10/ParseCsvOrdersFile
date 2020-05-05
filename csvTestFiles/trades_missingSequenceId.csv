@@ -1,0 +1,3 @@
+Time stamp,broker,sequence id,type,Symbol,Quantity,Price,Side
+10/5/2017 10:00:00,Fidelity,1,2,BARK,100,1.195,Buy
+10/5/2017 10:00:00,Fidelity,,2,BARK,100,1.195,Buy
